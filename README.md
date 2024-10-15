@@ -1,4 +1,4 @@
-# Description of Phishing Annoyance Script
+# Description of Counter Phishing Annoyance Script
 
 This Python script is designed to automatically send rapid, automated responses to phishers targeting your iMessage account. Utilizing the `subprocess` module to execute AppleScript commands, the script effectively interacts with the Messages app on macOS to deliver messages to the specified contact.
 
